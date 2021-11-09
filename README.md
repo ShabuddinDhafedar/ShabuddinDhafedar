@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShabuddinDhafedar
+- 👋 Hi, I’m Shabuddin Dhafedar
 - 👀 I’m interested in ...Data Science Career
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
